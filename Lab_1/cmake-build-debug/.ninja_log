@@ -1,0 +1,21 @@
+# ninja log v5
+1	328	7001555942566764	CMakeFiles/Lab_1.dir/main.cpp.obj	8450f2592923ad17
+4	404	7001555943328127	CMakeFiles/Lab_1.dir/realization.cpp.obj	117fb5e6cb4edffd
+405	506	7001555944294777	Lab_1.exe	2e59d08e23ea2bf4
+2	378	7001562601924499	CMakeFiles/Lab_1.dir/realization.cpp.obj	117fb5e6cb4edffd
+379	469	7001562602794335	Lab_1.exe	2e59d08e23ea2bf4
+2	540	7001567482478775	CMakeFiles/Lab_1.dir/realization.cpp.obj	117fb5e6cb4edffd
+541	690	7001567483937247	Lab_1.exe	2e59d08e23ea2bf4
+3	393	7001574004231778	CMakeFiles/Lab_1.dir/realization.cpp.obj	117fb5e6cb4edffd
+393	481	7001574005082558	Lab_1.exe	2e59d08e23ea2bf4
+2	394	7001574394025113	CMakeFiles/Lab_1.dir/realization.cpp.obj	117fb5e6cb4edffd
+394	483	7001574394877361	Lab_1.exe	2e59d08e23ea2bf4
+2	291	7001575985883699	CMakeFiles/Lab_1.dir/main.cpp.obj	8450f2592923ad17
+292	380	7001575986744140	Lab_1.exe	2e59d08e23ea2bf4
+2	307	7001583195433650	CMakeFiles/Lab_1.dir/main.cpp.obj	8450f2592923ad17
+2	398	7001583365577050	CMakeFiles/Lab_1.dir/realization.cpp.obj	117fb5e6cb4edffd
+399	491	7001583366453387	Lab_1.exe	2e59d08e23ea2bf4
+3	393	7001585043192022	CMakeFiles/Lab_1.dir/realization.cpp.obj	117fb5e6cb4edffd
+394	480	7001585044027808	Lab_1.exe	2e59d08e23ea2bf4
+2	394	7001585514974689	CMakeFiles/Lab_1.dir/realization.cpp.obj	117fb5e6cb4edffd
+394	482	7001585515814869	Lab_1.exe	2e59d08e23ea2bf4

@@ -1,0 +1,6 @@
+# ninja log v5
+7	280	7001551785317135	CMakeFiles/Lab_2.dir/functions.cpp.obj	75650a38b67846cd
+7	751	7002786149437876	CMakeFiles/Lab_2.dir/main.cpp.obj	88fbab4d5563222
+753	913	7002786151021377	Lab_2.exe	aded895742a0c6ea
+1	251	7003374591929419	build.ninja	39757728c47e26a5
+2	288	7002569452517196	CMakeFiles/Lab_2.dir/Vector3.cpp.obj	db0c93c2e6961b15

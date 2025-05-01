@@ -1,0 +1,10 @@
+# ninja log v5
+2	211	7037756285882049	build.ninja	79122fecee6fdf0c
+11	76	7037356027579785	CMakeFiles/Lab_4.dir/six_edges.cpp.obj	8e1e48bb6115cf15
+0	241	7037356029227491	CMakeFiles/Lab_4.dir/vector.cpp.obj	4d15ed55d48eacc5
+4	366	7037356249199487	CMakeFiles/Lab_4.dir/main.cpp.obj	7617f5bc2c9c20c5
+367	477	7037356250289366	Lab_4.exe	178a0b396ca4e36
+6	920	7037862194519004	CMakeFiles/Lab_4.dir/main.cpp.obj	7617f5bc2c9c20c5
+13	927	7037862194589002	CMakeFiles/Lab_4.dir/six_edges.cpp.obj	8e1e48bb6115cf15
+21	1001	7037862195294345	CMakeFiles/Lab_4.dir/vector.cpp.obj	4d15ed55d48eacc5
+1001	1191	7037862197165685	Lab_4.exe	178a0b396ca4e36
